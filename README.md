@@ -6,5 +6,5 @@
 
 =========
 
-<p align="center"><a href="https://www.outsystems.com/" target="_blank"></a></p>
+<p align="center"><a href="https://www.outsystems.com/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FOutSystems&psig=AOvVaw1Xbi_5-o2rhI3TYVMMlVpz&ust=1709748856331000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjHzfvc3YQDFQAAAAAdAAAAABAE" alt="OutSystems"></a></p>
 
